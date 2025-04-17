@@ -272,7 +272,7 @@ class HillClimbingVisualizer:
             bg_color = "#f0f0f0"
         
         # Title label with styling
-        title_label = ttk.Label(control_frame, text="Advanced Hill Climbing Algorithm", 
+        title_label = ttk.Label(control_frame, text="Hill Climbing Algorithm", 
                              font=("Arial", 16, "bold"))
         title_label.pack(pady=5)
         
